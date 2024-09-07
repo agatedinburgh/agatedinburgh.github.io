@@ -17,46 +17,60 @@ Please email **someone** to be added to the mailing list.
 
 ### Fall 2024 Talks
 
-
+<nobr><b>Oct. 2</b>  &nbsp; <a href="https://darricklee.com/">Darrick Lee</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Oct. 2</b> &nbsp; <a href="https://darricklee.com/">Darrick Lee</a> - <i>Talk Title</i></summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> Some math</p>
 </details>
 
 
+<nobr><b>Oct. 9</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary><b>Oct. 9</b> &nbsp; TBA - <i>Talk Title</i></summary>
-<p style="margin-left:30px;"> TBA</p>
-</details>
-
-<details style="margin-bottom:10px">
-<summary><b>Oct. 16</b> &nbsp; TBA - <i>Talk Title</i></summary>
+<summary>Talk Title</summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 
+<nobr><b>Oct. 16</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary><b>Oct. 23</b> <span style="color: red;"><b>(Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> &nbsp; TBA - <i>Talk Title</i></summary>
+<summary>Talk Title</summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
+
+<nobr><b>Oct. 23</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary><b>Nov. 6</b> &nbsp; TBA - <i>Talk Title</i></summary>
+<summary>Talk Title</summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
+<nobr><b>Oct. 30</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary><b>Nov. 13</b> &nbsp; TBA - <i>Talk Title</i></summary>
+<summary>Talk Title</summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
+<nobr><b>Nov. 6</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary><b>Nov. 20</b> &nbsp; TBA - <i>Talk Title</i></summary>
+<summary>Talk Title</summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
+<nobr><b>Nov. 13</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary><b>Nov. 27</b> &nbsp; TBA - <i>Talk Title</i></summary>
+<summary>Talk Title</summary>
+<p style="margin-left:30px;"> TBA</p>
+</details>
+
+<nobr><b>Nov. 20</b>  &nbsp; TBA
+<details style="margin-bottom:10px">
+<summary>Talk Title</summary>
+<p style="margin-left:30px;"> TBA</p>
+</details>
+
+<nobr><b>Nov. 27</b>  &nbsp; TBA
+<details style="margin-bottom:10px">
+<summary>Talk Title</summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
