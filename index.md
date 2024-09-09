@@ -16,6 +16,7 @@ For the first semester, all talks will be by internal speakers. We welcome resea
 To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothing in the subject line and in the message body put the following:
 
 SUBSCRIBE agate-seminar [your name]
+
 QUIT
 
 
