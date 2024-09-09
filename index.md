@@ -4,18 +4,22 @@ layout: default
 
 ## Applied Geometry, Algebra, and Topology in Edinburgh (AGATE)
 
-AGATE is an informal seminar for anyone who is interested in applied (broadly construed) aspects of geometry, algebra and topology. 
-
-Please email **someone** to be added to the mailing list.  
+AGATE is an informal seminar for anyone at the University of Edinburgh who is interested in applied aspects (broadly construed) of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. The seminar is open to computational, theoretical and foundational research as well as domain-specific applications.
 
 **When:** Wednesdays 15:00 to 16:00  
 **Fall 2024 Location:** 3.10/3.11 [Dugald Stewart Building](https://maps.app.goo.gl/op8Ue9vbxhYPsty36)  
 
 **Organizers:** [Sjoerd Beentjes](https://sjoerdvbeentjes.github.io/), [Darrick Lee](https://darricklee.com/), and [Emily Roff](https://www.maths.ed.ac.uk/~emilyroff/)  
 
+For the first semester, all talks will be by internal speakers. We welcome research talks and expository talks, by faculty, postdocs and students. You could tell us about your own latest paper, or something you've just read and found exciting. You could tell us the story of an interdisciplinary collaboration (what worked? what didn't?). Or you might like to give a "What is...?"-style introduction to your broad area of research. To propose a talk, email Sjoerd, Darrick or Emily.
+
+To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothing in the subject line and in the message body put the following:
+
+SUBSCRIBE agate-seminar [your name]
+QUIT
 
 
-### Fall 2024 Talks
+### Autumn 2024 Talks
 
 <nobr><b>Oct. 2</b>  &nbsp; <a href="https://darricklee.com/">Darrick Lee</a></nobr>
 <details style="margin-bottom:10px">
