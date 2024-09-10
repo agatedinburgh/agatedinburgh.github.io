@@ -7,7 +7,7 @@ layout: default
 AGATE is an informal seminar for anyone at the University of Edinburgh who is interested in applied aspects (broadly construed) of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. The seminar is open to computational, theoretical and foundational research as well as domain-specific applications.
 
 **When:** Wednesdays 15:00 to 16:00  
-**Fall 2024 Location:** 3.10/3.11 [Dugald Stewart Building](https://maps.app.goo.gl/op8Ue9vbxhYPsty36)  
+**Autumn 2024 Location:** 3.10/3.11 [Dugald Stewart Building](https://maps.app.goo.gl/op8Ue9vbxhYPsty36)  
 
 **Organizers:** [Sjoerd Beentjes](https://sjoerdvbeentjes.github.io/), [Darrick Lee](https://darricklee.com/), and [Emily Roff](https://www.maths.ed.ac.uk/~emilyroff/)  
 
@@ -15,9 +15,8 @@ For the first semester, all talks will be by internal speakers. We welcome resea
 
 To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothing in the subject line and in the message body put the following:
 
-SUBSCRIBE agate-seminar [your name]
-
-QUIT
+>SUBSCRIBE agate-seminar [your name]\
+>QUIT
 
 
 ### Autumn 2024 Talks
