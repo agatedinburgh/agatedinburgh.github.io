@@ -4,7 +4,7 @@ layout: default
 
 ## Applied Geometry, Algebra, and Topology in Edinburgh (AGATE)
 
-AGATE is an informal seminar for anyone at the University of Edinburgh who is interested in applied aspects (broadly construed) of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. The seminar is open to computational, theoretical and foundational research as well as domain-specific applications.
+AGATE is an informal seminar for anyone at the University of Edinburgh who is interested in applied aspects (broadly construed) of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. The seminar is open to computational, theoretical and statistical research as well as domain-specific applications.
 
 **When:** Wednesdays 15:00 to 16:00  
 **Autumn 2024 Location:** 3.10/3.11 [Dugald Stewart Building](https://maps.app.goo.gl/op8Ue9vbxhYPsty36)  
