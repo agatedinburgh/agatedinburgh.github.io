@@ -23,58 +23,58 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Oct. 2</b>  &nbsp; <a href="https://darricklee.com/">Darrick Lee</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
-<p style="margin-left:30px;"> Some math</p>
+<summary><b>Signatures for Sequences and Graphs</b></summary>
+<p style="margin-left:30px;"> The path signature is a way to represent a path as an infinite sequence of tensors. We provide a high level introduction to signatures, highlighting the algebraic and geometric aspects of this construction. Along the way, we will discuss how this can be used to study sequences (time series) and graphs in machine learning. Based on joint work with Csaba Toth, Celia Hacker, and Harald Oberhauser.</p>
 </details>
 
 
 <nobr><b>Oct. 9</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 
 <nobr><b>Oct. 16</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 
-<nobr><b>Oct. 23</b>  &nbsp; TBA
+<nobr><b>Oct. 23</b>  &nbsp; TBA &nbsp; <span style="color: red;"><b>(Different Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> 
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Oct. 30</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Nov. 6</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Nov. 13</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Nov. 20</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Nov. 27</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary>Talk Title</summary>
+<summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
