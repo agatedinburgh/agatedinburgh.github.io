@@ -66,7 +66,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Nov. 20</b>  &nbsp; Alexandros Keros
+<nobr><b>Nov. 20</b>  &nbsp; <a href="https://www.linkedin.com/in/alexdkeros/">Alexandros Keros</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
