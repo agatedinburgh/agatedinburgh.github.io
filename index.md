@@ -34,8 +34,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-
-<nobr><b>Oct. 16</b>  &nbsp; TBA
+<nobr><b>Oct. 16</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
