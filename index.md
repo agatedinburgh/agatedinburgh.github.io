@@ -42,7 +42,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 
-<nobr><b>Oct. 23</b>  &nbsp; TBA &nbsp; <span style="color: red;"><b>(Different Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> 
+<nobr><b>Oct. 23</b>  &nbsp; <a href="https://alisomia.github.io/website/">Ting Lin</a></nobr> (Peking University) &nbsp; <span style="color: red;"><b>(Different Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> 
 <details style="margin-bottom:10px">
 <summary><b>Talk Title</b></summary>
 <p style="margin-left:30px;"> TBA</p>
