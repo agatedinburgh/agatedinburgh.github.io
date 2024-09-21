@@ -30,57 +30,51 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Oct. 9</b>  &nbsp; TBA
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Oct. 16</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 
 <nobr><b>Oct. 23</b>  &nbsp; <a href="https://alisomia.github.io/website/">Ting Lin</a></nobr> (Peking University) &nbsp; <span style="color: red;"><b>(Different Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> 
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Oct. 30</b>  &nbsp; <a href="https://sites.google.com/view/danielwindisch">Daniel Windisch</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Nov. 6</b>  &nbsp; <a href="https://kaibohu.github.io/">Kaibo Hu</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Nov. 13</b>  &nbsp; TBA
+<nobr><b>Nov. 13</b>  &nbsp; <a href="https://people.maths.bris.ac.uk/~pr12244/">Patrick Rubin-Delanchy</a></nobr> &nbsp; <span style="color: red;"><b>(Different Time: 4pm - 5pm)</b></span>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Nov. 20</b>  &nbsp; <a href="https://www.linkedin.com/in/alexdkeros/">Alexandros Keros</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 <nobr><b>Nov. 27</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/rsarkar/">Rik Sarkar</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title</b></summary>
+<summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<!---
-TEMPLATE FOR TALKS
-<details>
-<summary><b>DATE</b> <a href="URL">NAME</a> - <i>TALK TITLE</i></summary>
-<p style="margin-left:30px;"> ABSTRACT</p>
-</details>
--->
+
