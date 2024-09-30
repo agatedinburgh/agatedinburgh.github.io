@@ -23,8 +23,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Oct. 2</b>  &nbsp; <a href="https://darricklee.com/">Darrick Lee</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Signatures for Sequences and Graphs</b></summary>
-<p style="margin-left:30px;"> The path signature is a way to represent a path as an infinite sequence of tensors. We provide a high level introduction to signatures, highlighting the algebraic and geometric aspects of this construction. Along the way, we will discuss how this can be used to study sequences (time series) and graphs in machine learning. Based on joint work with Csaba Toth, Celia Hacker, and Harald Oberhauser.</p>
+<summary><b>Path Signatures in Machine learning. </b></summary>
+<p style="margin-left:30px;"> The path signature is a way to represent a path as an infinite sequence of tensors. We provide a high level introduction to signatures, highlighting the algebraic and geometric aspects of this construction, and discuss how this can be used to study sequences (time series) in machine learning.</p>
 </details>
 
 
