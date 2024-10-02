@@ -28,8 +28,9 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 
-<nobr><b>Oct. 9</b>  &nbsp; No Seminar    
-
+<nobr><b>Oct. 9</b>  &nbsp; No Seminar  
+ 
+<br>
 
 <b>Oct. 16</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a></nobr>
 <details style="margin-bottom:10px">
