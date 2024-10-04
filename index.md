@@ -6,7 +6,7 @@ layout: default
 
 AGATE is an informal seminar for anyone at the University of Edinburgh who is interested in applied aspects (broadly construed) of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. The seminar is open to computational, theoretical and statistical research as well as domain-specific applications.
 
-**When:** Wednesdays 15:00 to 16:00  
+**When:** Wednesdays 15:05 to 16:00  
 **Autumn 2024 Location:** 3.10/3.11 [Dugald Stewart Building](https://maps.app.goo.gl/op8Ue9vbxhYPsty36)  
 
 **Organizers:** [Sjoerd Beentjes](https://sjoerdvbeentjes.github.io/), [Darrick Lee](https://darricklee.com/), and [Emily Roff](https://www.maths.ed.ac.uk/~emilyroff/)  
@@ -23,7 +23,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Oct. 2</b>  &nbsp; <a href="https://darricklee.com/">Darrick Lee</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Path Signatures in Machine learning. </b></summary>
+<summary><b>Path Signatures in Machine Learning </b></summary>
 <p style="margin-left:30px;"> The path signature is a way to represent a path as an infinite sequence of tensors. We provide a high level introduction to signatures, highlighting the algebraic and geometric aspects of this construction, and discuss how this can be used to study sequences (time series) in machine learning.</p>
 </details>
 
@@ -33,14 +33,16 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <br>
 <br>
 
-<b>Oct. 16</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a></nobr>
+<nobr><b>Oct. 16</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
 
-<nobr><b>Oct. 23</b>  &nbsp; <a href="https://alisomia.github.io/website/">Ting Lin</a></nobr> (Peking University) &nbsp; <span style="color: red;"><b>(Different Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> 
+<nobr><b>Oct. 23</b>  &nbsp; <a href="https://alisomia.github.io/website/">Ting Lin</a></nobr> (Peking University)
+<br>
+<span style="color: red;"><b>(Different Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> 
 <details style="margin-bottom:10px">
 <summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
@@ -58,7 +60,9 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Nov. 13</b>  &nbsp; <a href="https://people.maths.bris.ac.uk/~pr12244/">Patrick Rubin-Delanchy</a></nobr> &nbsp; <span style="color: red;"><b>(Different Time: 4pm - 5pm)</b></span>
+<nobr><b>Nov. 13</b>  &nbsp; <a href="https://people.maths.bris.ac.uk/~pr12244/">Patrick Rubin-Delanchy</a></nobr>
+<br>
+<span style="color: red;"><b>(Different Time: 16:05 - 17:00)</b></span>
 <details style="margin-bottom:10px">
 <summary><b>Talk Title TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
