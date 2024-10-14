@@ -35,8 +35,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Oct. 16</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/amos/">Amos Storkey</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Topological and Geometric Elements in Modern Deep Learning - Benefits and Challenges</b></summary>
+<p style="margin-left:30px;"> This talk will take a simple introduction to machine learning, especially as used in computer vision. We then go on to see the different ways issues of geometry and topology turn up and are handled within the field. We examine the promise, in terms of generalisation, that building geometric understanding adds to a model. At the same time we recognise the challenges that imposing a rigid abstract geometry on a real world space can bring. I will give one example of our work decomposing structure and motion using a Hamiltonian model structure, before opening things up for discussion as to what the future opportunities are.</p>
 </details>
 
 
