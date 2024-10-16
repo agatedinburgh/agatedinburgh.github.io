@@ -44,8 +44,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <br>
 <span style="color: red;"><b>(Different Location: 5.45 <a href="https://maps.app.goo.gl/9EHcPU2GPTd88VSv9">Bayes Centre</a>)</b></span> 
 <details style="margin-bottom:10px">
-<summary><b>Talk Title TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Universal Approximation Properties of Deep Neural Networks: A Control Theory Perspective</b></summary>
+<p style="margin-left:30px;"> In this talk, I will discuss the approximation properties of deep neural networks, with a particular focus on residual-type structures, a popular architecture in deep learning. We will conceptualize ResNet as a continuous control system, specifically as a parametric dynamical system. Based on this framework, we will explore the universal approximation and interpolation properties of deep neural networks. We show that any nonlinear activation function can have universal approximation property. Furthermore, we will discuss extensions to symmetric cases, including permutation and translation invariance, which are useful in scientific computing. This is based on joint work with Jingpu Cheng (NUS), Qianxiao Li (NUS), and Zuowei Shen (NUS).</p>
 </details>
 
 <nobr><b>Oct. 30</b>  &nbsp; <a href="https://sites.google.com/view/danielwindisch">Daniel Windisch</a></nobr>
