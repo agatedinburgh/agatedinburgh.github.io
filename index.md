@@ -42,7 +42,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Oct. 23</b>  &nbsp; <a href="https://alisomia.github.io/website/">Ting Lin</a></nobr> (Peking University)
 <br>
-<span style="color: red;"><b>(Different Location: 2.14 <a href="https://maps.app.goo.gl/1oD4Fc5G3T7uo8ad9">Appleton Tower</a>)</b></span> 
+<span style="color: red;"><b>(Different Location: 2.14 <a href="    ">Appleton Tower</a>)</b></span> 
 <details style="margin-bottom:10px">
 <summary><b>Universal Approximation Properties of Deep Neural Networks: A Control Theory Perspective</b></summary>
 <p style="margin-left:30px;"> In this talk, I will discuss the approximation properties of deep neural networks, with a particular focus on residual-type structures, a popular architecture in deep learning. We will conceptualize ResNet as a continuous control system, specifically as a parametric dynamical system. Based on this framework, we will explore the universal approximation and interpolation properties of deep neural networks. We show that any nonlinear activation function can have universal approximation property. Furthermore, we will discuss extensions to symmetric cases, including permutation and translation invariance, which are useful in scientific computing. This is based on joint work with Jingpu Cheng (NUS), Qianxiao Li (NUS), and Zuowei Shen (NUS).</p>
@@ -50,8 +50,10 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Oct. 30</b>  &nbsp; <a href="https://sites.google.com/view/danielwindisch">Daniel Windisch</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Real Algebraic Geometry for Games and their Equilibria</b></summary>
+<p style="margin-left:30px;"> The classical notion of Nash equilibria imposes the somewhat unnatural assumption of independent non-cooperative acting on the players of a game. In 2005, the philosopher Wolfgang Spohn introduced a new concept, called dependency equilibria, that also takes into consideration cooperation of the players. Dependency equilibria are, however, much more involved from a mathematical viewpoint.
+ 
+This talk will give the necessary background in game theory and will show how basic (real) algebraic geometry can be used to study dependency equilibria and game theoretical questions in general. It is based on joint work with Irem Portakal.</p>
 </details>
 
 <nobr><b>Nov. 6</b>  &nbsp; <a href="https://kaibohu.github.io/">Kaibo Hu</a></nobr>
