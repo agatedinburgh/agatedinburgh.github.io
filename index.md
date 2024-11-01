@@ -58,8 +58,8 @@ This talk will give the necessary background in game theory and will show how ba
 
 <nobr><b>Nov. 6</b>  &nbsp; <a href="https://kaibohu.github.io/">Kaibo Hu</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>The Bernstein-Gelfand-Gelfand (BGG) machinery and applications</b></summary>
+<p style="margin-left:30px;">  In this talk, we first review the de Rham complex and the finite element exterior calculus, a cohomological framework for structure-preserving discretisation of PDEs. From de Rham complexes, we derive other complexes with applications in elasticity, geometry and general relativity. Algebraic structures (information on cohomology) imply a number of analytic results, such as the Hodge-Helmholtz decomposition, Poincaré-Korn inequalities and compactness. The derivation, inspired by the Bernstein-Gelfand-Gelfand (BGG) construction, also provides a general machinery to establish results for tensor-valued problems (e.g., elasticity) from de Rham complexes (e.g., electromagnetism and fluid mechanics). We discuss some applications in this direction, including the construction of bounded homotopy operators (Poincaré integrals) and finite elements.</p>
 </details>
 
 <nobr><b>Nov. 13</b>  &nbsp; <a href="https://people.maths.bris.ac.uk/~pr12244/">Patrick Rubin-Delanchy</a></nobr>
