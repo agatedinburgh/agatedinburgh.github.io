@@ -62,12 +62,20 @@ This talk will give the necessary background in game theory and will show how ba
 <p style="margin-left:30px;">  In this talk, we first review the de Rham complex and the finite element exterior calculus, a cohomological framework for structure-preserving discretisation of PDEs. From de Rham complexes, we derive other complexes with applications in elasticity, geometry and general relativity. Algebraic structures (information on cohomology) imply a number of analytic results, such as the Hodge-Helmholtz decomposition, Poincaré-Korn inequalities and compactness. The derivation, inspired by the Bernstein-Gelfand-Gelfand (BGG) construction, also provides a general machinery to establish results for tensor-valued problems (e.g., elasticity) from de Rham complexes (e.g., electromagnetism and fluid mechanics). We discuss some applications in this direction, including the construction of bounded homotopy operators (Poincaré integrals) and finite elements.</p>
 </details>
 
-<nobr><b>Nov. 13</b>  &nbsp; <a href="https://people.maths.bris.ac.uk/~pr12244/">Patrick Rubin-Delanchy</a></nobr>
+<nobr><b>Nov. 13</b>  &nbsp; <a href="https://www.maths.ed.ac.uk/~prd/index.html">Patrick Rubin-Delanchy</a></nobr>
 <br>
 <span style="color: red;"><b>(Different Time: 16:05 - 17:00)</b></span>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>What makes a good embedding?</b></summary>
+<p style="margin-left:30px;"> Embeddings are continuous vector representations of entities, such as words or nodes, perhaps most widely known for their role in modern AI systems such as large language models.
+ 
+In this talk I consider a different goal, which is statistical analysis, or the creation of knowledge. An embedding is an instrument which allows us to observe complex, unstructured, or otherwise intractable data, in a way that we can use.
+ 
+In embeddings, simple statistical models are tenable; concepts like similarity, or trend, have a `shape’; abstract notions such as political opinion, the health of a patient, the function of a cell, can be made geometric and measurable; and we can uncover truths that could have seemed completely absent from the raw data.
+ 
+I illustrate these points with new theory connecting statistical models, embeddings and the manifold hypothesis, and with motivating problems in science, security, and recent work with Southmead hospital at Bristol.
+ 
+We welcome feedback on our codebase, pyemb, a work in progress implementing these ideas: https://pyemb.github.io/pyemb/html/index.html</p>
 </details>
 
 <nobr><b>Nov. 20</b>  &nbsp; <a href="https://www.linkedin.com/in/alexdkeros/">Alexandros Keros</a></nobr>
