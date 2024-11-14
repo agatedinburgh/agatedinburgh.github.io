@@ -80,8 +80,8 @@ We welcome feedback on our codebase, pyemb, a work in progress implementing thes
 
 <nobr><b>Nov. 20</b>  &nbsp; <a href="https://www.linkedin.com/in/alexdkeros/">Alexandros Keros</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Understanding and navigating the self-assembly of nanoparticles</b></summary>
+<p style="margin-left:30px;"> Material synthesis though nanoparticle self-assembly enables the creation of specialized structures with transformative applications in engineering and biology. However, efficient and robust control of the assembly process, and prediction of macro-scale properties, are obstructed by the inherent stochasticity and complexity of particle dynamics. I will review topological and geometric methods for characterising particle configurations in the context of material science, and explore learning and control approaches for steering their dynamics.</p>
 </details>
 
 <nobr><b>Nov. 27</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/rsarkar/">Rik Sarkar</a></nobr>
