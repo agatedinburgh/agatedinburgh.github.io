@@ -86,8 +86,8 @@ We welcome feedback on our codebase, pyemb, a work in progress implementing thes
 
 <nobr><b>Nov. 27</b>  &nbsp; <a href="https://homepages.inf.ed.ac.uk/rsarkar/">Rik Sarkar</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>Talk Title TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Hyperbolic representation of trees and applications in machine learning</b></summary>
+<p style="margin-left:30px;"> Hyperbolic geometry has recently become an increasingly important topic in machine learning due to its usefulness in representing hierarchies, graphs and other types of non-euclidean data. In this talk we will discuss hyperbolic geometry and a theorem that any tree can be embedded in the hyperbolic plane with arbitrarily low distortion. Then we will review how similar ideas are used in several areas of machine learning. </p>
 </details>
 
 
