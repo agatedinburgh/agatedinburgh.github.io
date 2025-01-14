@@ -19,11 +19,6 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 >QUIT
 
 ### Spring 2025 Talks
-<nobr><b>Feb. 5</b>  &nbsp; <a href="INSERT URL HERE">TBA</a></nobr>
-<details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
-</details>
 
 <nobr><b>Feb. 12</b>  &nbsp; <a href="INSERT URL HERE">TBA</a></nobr>
 <details style="margin-bottom:10px">
