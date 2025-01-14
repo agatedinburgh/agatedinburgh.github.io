@@ -68,6 +68,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
+<br>
+<br>
 
 ### Autumn 2024 Talks
 
