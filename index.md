@@ -9,7 +9,7 @@ AGATE is an informal seminar for anyone at the University of Edinburgh who is in
 **When:** Wednesdays 15:05 to 16:00  
 **Spring 2025 Location:** 2.11 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA)  
 
-**Organizers:** [Djordje Mihajlovic](https://djpm.xyz/), [Siddharth Setlur](https://siddharthsetlur.github.io/), [Darrick Lee](https://darricklee.com/), and [Emily Roff](https://www.maths.ed.ac.uk/~emilyroff/)  
+**Organizers:** [Djordje Mihajlovic](https://djpm.xyz/), [Siddharth Setlur](https://siddharthsetlur.github.io/), [Sjoerd Beentjes](https://sjoerdvbeentjes.github.io/), [Darrick Lee](https://darricklee.com/), and [Emily Roff](https://www.maths.ed.ac.uk/~emilyroff/)  
 
 <!-- For the first semester, all talks will be by internal speakers. We welcome research talks and expository talks, by faculty, postdocs and students. You could tell us about your own latest paper, or something you've just read and found exciting. You could tell us the story of an interdisciplinary collaboration (what worked? what didn't?). Or you might like to give a "What is...?"-style introduction to your broad area of research. To propose a talk, email Sjoerd, Darrick or Emily. -->
 
