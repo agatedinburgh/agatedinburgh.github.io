@@ -39,9 +39,9 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Mar. 5</b>  &nbsp; <a href="INSERT URL HERE">TBA</a></nobr>
+<nobr><b>Mar. 5</b>  &nbsp; <a href="https://sites.google.com/view/roantalbut/home">Roan Talbut (Imperial College London)</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
+<summary><b>Tropical Gradient Descent</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
