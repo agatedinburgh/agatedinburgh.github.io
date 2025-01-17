@@ -22,7 +22,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Feb. 12</b>  &nbsp; <a href="https://users.math.msu.edu/users/weig/">Guowei Wei (Michigan State University, online)</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
+<summary><b>Topological Deep Learning on Graphs, Manifolds and Curves</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
