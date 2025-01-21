@@ -72,7 +72,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <br>
 <br>
-In Spring 2025, AGATE is supported by Engineering and Physical Sciences Research Council [grant number: EP/Y035232/1] and [grant number: EP/R034826/1]
+In Spring 2025, AGATE is supported by the Engineering and Physical Sciences Research Council [grant number: EP/Y035232/1] and [grant number: EP/R034826/1]
 <br>
 
 ## Autumn 2024 Talks
