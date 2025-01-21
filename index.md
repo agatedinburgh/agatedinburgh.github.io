@@ -18,8 +18,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 >SUBSCRIBE agate-seminar [your name]\
 >QUIT
 
-### Spring 2025 Talks
-## Applications to Biology and Medicine
+## Spring 2025 Talks
+### Applications to Biology and Medicine
 
 <nobr><b>Feb. 12</b>  &nbsp; <a href="https://users.math.msu.edu/users/weig/">Guowei Wei (Michigan State University, online)</a></nobr>
 <details style="margin-bottom:10px">
@@ -75,8 +75,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 In Spring 2025, AGATE is supported by Engineering and Physical Sciences Research Council [grant number: EP/Y035232/1] and [grant number: EP/R034826/1]
 <br>
 
-### Autumn 2024 Talks
-## Applications to Machine Learning
+## Autumn 2024 Talks
+### Applications to Machine Learning
 <nobr><b>Oct. 2</b>  &nbsp; <a href="https://darricklee.com/">Darrick Lee</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Path Signatures in Machine Learning </b></summary>
