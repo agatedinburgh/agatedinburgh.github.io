@@ -4,10 +4,10 @@ layout: default
 
 ## Applied Geometry, Algebra, and Topology in Edinburgh (AGATE)
 
-AGATE is an informal seminar for anyone at the University of Edinburgh who is interested in applied aspects (broadly construed) of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. The seminar is open to computational, theoretical and statistical research as well as domain-specific applications.
+AGATE is an informal, hybrid seminar hosted at the University of Edinburgh, with Heriot-Watt and University of Glasgow as participating institutions, open to anyone who is interested in applied aspects of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. Each semester has a thematic focus on applications to a particular domain. 
 
 **When:** Wednesdays 15:05 to 16:00  
-**Spring 2025 Location:** 2.11 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA)  
+**Spring 2025 Location:** 2.11 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) and on Zoom. 
 
 **Organizers:** [Djordje Mihajlovic](https://djpm.xyz/), [Siddharth Setlur](https://siddharthsetlur.github.io/), [Sjoerd Beentjes](https://sjoerdvbeentjes.github.io/), [Darrick Lee](https://darricklee.com/), and [Emily Roff](https://www.maths.ed.ac.uk/~emilyroff/)  
 
@@ -19,6 +19,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 >QUIT
 
 ### Spring 2025 Talks
+## Applications to Biology and Medicine
 
 <nobr><b>Feb. 12</b>  &nbsp; <a href="https://users.math.msu.edu/users/weig/">Guowei Wei (Michigan State University, online)</a></nobr>
 <details style="margin-bottom:10px">
@@ -71,9 +72,11 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <br>
 <br>
+In Spring 2025, AGATE is supported by Engineering and Physical Sciences Research Council [grant number: EP/Y035232/1] and [grant number: EP/R034826/1]
+<br>
 
 ### Autumn 2024 Talks
-
+## Applications to Machine Learning
 <nobr><b>Oct. 2</b>  &nbsp; <a href="https://darricklee.com/">Darrick Lee</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Path Signatures in Machine Learning </b></summary>
