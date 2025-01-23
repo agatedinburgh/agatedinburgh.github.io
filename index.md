@@ -46,7 +46,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Mar. 12</b>  &nbsp; <a href="INSERT URL HERE">TBA</a></nobr>
+<nobr><b>Mar. 12</b>  &nbsp; <a href="https://limbeckkat.github.io/">Katharina Limbeck (Helmholtz Munich)</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
