@@ -34,7 +34,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 
-<nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi (University of Queensland)</a></nobr>
+<nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi (University of Queensland, online)</a></nobr>
 <br>
 <span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - TBA, near the Bayes Center)</b></span>
 <details style="margin-bottom:10px">
@@ -54,7 +54,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Mar. 19</b>  &nbsp; <a href="https://www.elenipanagiotou.com/">Eleni Panagiotou (Arizona State University)</a></nobr>
+<nobr><b>Mar. 19</b>  &nbsp; <a href="https://www.elenipanagiotou.com/">Eleni Panagiotou (Arizona State University, online)</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
