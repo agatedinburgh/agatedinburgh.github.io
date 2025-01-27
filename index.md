@@ -33,7 +33,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi (University of Queensland, online)</a>
+<nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi (University of Queensland, online)</a></nobr>
 <br>
 <span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - TBA, near the Bayes Center)</b></span>
 <details style="margin-bottom:10px">
@@ -75,6 +75,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <br>
 In Spring 2025, AGATE is supported by the Engineering and Physical Sciences Research Council [grant number: EP/Y035232/1] and [grant number: EP/R034826/1]
 <br>
+
+
 
 ## Autumn 2024 Talks
 ### Applications to Machine Learning
