@@ -66,9 +66,9 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Apr. 2</b>  &nbsp; <a href="INSERT URL HERE">TBA</a></nobr>
+<nobr><b>Apr. 2</b>  &nbsp; <a href="https://people.maths.ox.ac.uk/fersztand/">Marc Fersztand (University of Oxford)</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
+<summary><b>Harder-Narasimhan Filtrations of Persistence Modules</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
