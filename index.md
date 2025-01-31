@@ -21,19 +21,19 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 ## Spring 2025 Talks
 ### Applications to Biology and Medicine
 
-<nobr><b>Feb. 12</b>  &nbsp; <a href="https://users.math.msu.edu/users/weig/">Guowei Wei (Michigan State University, online)</a></nobr>
+<nobr><b>Feb. 12</b>  &nbsp; <a href="https://users.math.msu.edu/users/weig/">Guowei Wei</a></nobr> (Michigan State University, online)
 <details style="margin-bottom:10px">
 <summary><b>Topological Deep Learning on Graphs, Manifolds and Curves</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Feb. 19</b>  &nbsp; <a href="https://sites.google.com/view/kelly-maggs">Kelly Maggs (MPI-CBG)</a></nobr>
+<nobr><b>Feb. 19</b>  &nbsp; <a href="https://sites.google.com/view/kelly-maggs">Kelly Maggs</a></nobr> (MPI-CBG)
 <details style="margin-bottom:10px">
 <summary><b>TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi (University of Queensland, online)</a></nobr>
+<nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi</a></nobr> (University of Queensland, online)
 <br>
 <span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - TBA, near the Bayes Center)</b></span>
 <details style="margin-bottom:10px">
@@ -41,31 +41,31 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Mar. 5</b>  &nbsp; <a href="https://sites.google.com/view/roantalbut/home">Roan Talbut (Imperial College London)</a></nobr>
+<nobr><b>Mar. 5</b>  &nbsp; <a href="https://sites.google.com/view/roantalbut/home">Roan Talbut</a></nobr> (Imperial College London)
 <details style="margin-bottom:10px">
 <summary><b>Tropical Gradient Descent</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Mar. 12</b>  &nbsp; <a href="https://limbeckkat.github.io/">Katharina Limbeck (Helmholtz Munich)</a></nobr>
+<nobr><b>Mar. 12</b>  &nbsp; <a href="https://limbeckkat.github.io/">Katharina Limbeck</a></nobr> (Helmholtz Munich)
 <details style="margin-bottom:10px">
 <summary><b>TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Mar. 19</b>  &nbsp; <a href="https://www.elenipanagiotou.com/">Eleni Panagiotou (Arizona State University, online)</a></nobr>
+<nobr><b>Mar. 19</b>  &nbsp; <a href="https://www.elenipanagiotou.com/">Eleni Panagiotou</a></nobr> (Arizona State University, online)
 <details style="margin-bottom:10px">
 <summary><b>TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Mar. 26</b>  &nbsp; <a href="https://irisyoon.com/">Iris Yoon (Wesleyan University, online)</a></nobr>
+<nobr><b>Mar. 26</b>  &nbsp; <a href="https://irisyoon.com/">Iris Yoon</a></nobr> (Wesleyan University, online)
 <details style="margin-bottom:10px">
 <summary><b>TBA</b></summary>
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
-<nobr><b>Apr. 2</b>  &nbsp; <a href="https://people.maths.ox.ac.uk/fersztand/">Marc Fersztand (University of Oxford)</a></nobr>
+<nobr><b>Apr. 2</b>  &nbsp; <a href="https://people.maths.ox.ac.uk/fersztand/">Marc Fersztand</a></nobr> (University of Oxford)
 <details style="margin-bottom:10px">
 <summary><b>Harder-Narasimhan Filtrations of Persistence Modules</b></summary>
 <p style="margin-left:30px;"> TBA</p>
