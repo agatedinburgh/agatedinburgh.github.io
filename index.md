@@ -24,7 +24,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <nobr><b>Feb. 12</b>  &nbsp; <a href="https://users.math.msu.edu/users/weig/">Guowei Wei (Michigan State University, online)</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Topological Deep Learning on Graphs, Manifolds and Curves</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<p style="margin-left:30px;"> In the past few years, topological deep learning (TDL), a term coined by us in 2017, has become an emerging paradigm in artificial intelligence (AI) and data science. TDL is built on persistent homology (PH), a vital tool in topological data analysis (TDA) that bridges the gap between complex geometry and abstract topology through multiscale analysis. While TDA has made huge strides in a wide variety of scientific and engineering disciplines, it has many limitations. I will discuss our recent effort in extending the scope of TDA from graphs to manifolds and curves, through new formulations from algebraic topology, geometric topology, and differential topology. I will also discuss how TDL achieved its victories in worldwide annual competitions in computer-aided drug design, discovered SARS-CoV-2 evolutionary mechanism, and accurately predicted emerging dominant viral variants.</p>
 </details>
 
 <nobr><b>Feb. 19</b>  &nbsp; <a href="https://sites.google.com/view/kelly-maggs">Kelly Maggs (MPI-CBG)</a></nobr>
