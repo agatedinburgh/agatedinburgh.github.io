@@ -49,8 +49,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Mar. 12</b>  &nbsp; <a href="https://limbeckkat.github.io/">Katharina Limbeck (Helmholtz Munich)</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Studying the Shape of Omics Data</b></summary>
+<p style="margin-left:30px;"> This seminar explores geometric and topological approaches for analysing omics data across multiple scales, focusing on two case studies. First, we identify spatial patterns in transcriptomics data using persistent homology. Specifically, we leverage functional summaries to perform permutation testing for spatial randomness in gene expression values. Our approach offers greater robustness and accuracy than alternative methods for detecting spatial dependence. Second, we examine metric space magnitude, a recently established geometric invariant that summarises the effective size and diversity of a space. Applied to cancer genomics, magnitude quantifies tumour genomic heterogeneity, a key factor in cancer progression and clinical outcomes, and distinguishes cancer subtypes based on copy-number alterations. These case studies demonstrate the power of using multi-scale geometric descriptors, namely persistent homology and magnitude, within a statistical framework to uncover meaningful structure in complex omics data.</p>
 </details>
 
 <nobr><b>Mar. 19</b>  &nbsp; <a href="https://www.elenipanagiotou.com/">Eleni Panagiotou (Arizona State University, online)</a></nobr>
