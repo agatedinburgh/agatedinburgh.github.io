@@ -29,8 +29,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Feb. 19</b>  &nbsp; <a href="https://sites.google.com/view/kelly-maggs">Kelly Maggs (MPI-CBG)</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Cohomology Classes in the RNA Transcriptome</b></summary>
+<p style="margin-left:30px;">  In this talk, I will discuss the use of persistent cohomology to detect circular structure in scRNA-seq data, which we will use to define a system of statistically enriching gene sets for circular structure. We will also develop a differential form-based technique for estimating the phase of genes exhibiting cyclic expression patterns. I will present this applied to real datasets studying the cell cycle, tissue re-generation and senescence in diverse experimental conditions.</p> 
 </details>
 
 <nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi (University of Queensland, online)</a></nobr>
