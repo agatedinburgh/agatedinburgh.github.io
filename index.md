@@ -37,8 +37,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <br>
 <span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - 2.04 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) )</b></span>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Topologically steered simulations and the role of geometric constraints in protein knotting</b></summary>
+<p style="margin-left:30px;">  We introduce a method to determine the optimal pathway by which a polymer may knot or unknot, while subject to a given set of physics, and we investigate the effect of imposing geometric constraints. We show that with protein-like geometric constraints, the frequency of twist knots increases, similar to the observed abundance of twist knots in protein structures. This is joint work with A.Klotz and D.Goundaroulis.</p>
 </details>
 
 <nobr><b>Mar. 5</b>  &nbsp; <a href="https://sites.google.com/view/roantalbut/home">Roan Talbut (Imperial College London)</a></nobr>
