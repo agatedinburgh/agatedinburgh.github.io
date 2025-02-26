@@ -44,7 +44,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <nobr><b>Mar. 5</b>  &nbsp; <a href="https://sites.google.com/view/roantalbut/home">Roan Talbut (Imperial College London)</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Tropical Gradient Descent</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<p style="margin-left:30px;"> The field of tropical statistics - motivated by the identification of the tropical Grassmannian and the space of phylogenetic trees - has produced a range of unconstrained optimisation problems over the tropical projective torus. We will review the types of convexity exhibited by tropical loss functions in statistics, and we propose a new gradient descent method for solving tropical optimisation problems. Theoretical results establish global solvability for tropically star-quasi-convex problems, and numerical experiments demonstrate the method's superior performance over classical descent for tropical optimisation problems which exhibit tropical quasi-convexity but not classical convexity. Notably, tropical gradient descent seamlessly integrates into advanced optimisation methods, such as Adam, offering improved overall performance.</p>
 </details>
 
 <nobr><b>Mar. 12</b>  &nbsp; <a href="https://limbeckkat.github.io/">Katharina Limbeck (Helmholtz Munich)</a></nobr>
