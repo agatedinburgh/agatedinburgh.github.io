@@ -71,6 +71,12 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBA</p>
 </details>
 
+<nobr><b>Apr. 9</b>  &nbsp; <a href="https://www.iolojones.co.uk">Iolo Jones (Durham University)</a></nobr>
+<details style="margin-bottom:10px">
+<summary><b>New methods in diffusion geometry</b></summary>
+<p style="margin-left:30px;"> Diffusion geometry is a new framework for geometric and topological data analysis that defines Riemannian geometry for probability spaces. This lets us apply the huge wealth of theory and methods from classical differential geometry as tools for data analysis. In this talk, I will outline the basic theory of diffusion geometry, like the construction of vector fields and differential forms. I will also survey a range of new data analysis tools, including vector calculus, solving spatial PDEs on data, finding integral curves and geodesics, and finding circular coordinates for de Rham cohomology classes. In the very special case of data from manifolds, we can compute the curvature tensors and dimension. These methods are highly robust to noise and fast to compute when compared with comparable methods like persistent homology.</p>
+</details>
+
 <br>
 <br>
 In Spring 2025, AGATE is supported by the Engineering and Physical Sciences Research Council [grant number: EP/Y035232/1] and [grant number: EP/R034826/1]
