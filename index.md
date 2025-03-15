@@ -55,8 +55,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>Mar. 19</b>  &nbsp; <a href="https://www.elenipanagiotou.com/">Eleni Panagiotou (Arizona State University, online)</a></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<summary><b>Novel Measures of Complexity of Open Curves in 3-space and the Topological Landscape of Proteins</b></summary>
+<p style="margin-left:30px;"> Filamentous material may exhibit structure dependent material properties and function that depends on their entanglement. Even though intuitively entanglement is often understood in terms of knotting or linking, many of the filamentous systems in the natural world are not mathematical knots or links.  In this talk we will introduce a novel framework in knot theory that can characterize the complexity of (collections of) open curves in 3-space in general. This leads to novel metrics of entanglement of open curves in 3-space that generalize classical topological invariants, like, for example, the Jones polynomial and Vassiliev invariants. For open curves, these are continuous functions of the curve coordinates and tend to topological invariants of classical knots and links when the endpoints of the curves tend to coincide. We will apply our methods to proteins and we will show that these enable us to create a new framework for understanding protein folding, which is validated by experimental data.  Using the topological landscape of proteins, we show that the static native state geometry and topology reflects protein evolution dynamics. These results suggest that these topological metrics could serve as valuable reaction coordinates, bridging the gap between protein structure topology and dynamics for the first time.</p>
 </details>
 
 <nobr><b>Mar. 26</b>  &nbsp; <a href="https://irisyoon.com/">Iris Yoon (Wesleyan University, online)</a></nobr>
