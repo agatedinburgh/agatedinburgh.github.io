@@ -68,7 +68,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <nobr><b>Apr. 2</b>  &nbsp; <a href="https://people.maths.ox.ac.uk/fersztand/">Marc Fersztand (University of Oxford)</a></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Harder-Narasimhan Filtrations of Persistence Modules</b></summary>
-<p style="margin-left:30px;"> TBA</p>
+<p style="margin-left:30px;"> The Harder-Narasimhan types are a family of discrete isomorphism invariants for representations of finite quivers. We evaluate their discriminating power in the context of persistence modules over a finite poset, including multiparameter persistence modules (over a finite grid). In particular, we introduce the skyscraper invariant and proved amongst other that it is strictly finer than the rank invariant and incomparable with the generalised rank invariant. In order to study the stability of the skyscraper invariant, we extend its definition from the finite to the infinite setting and consider multiparameter persistence modules over Z^n and R^n. We then establish an erosion-type stability result for the skyscraper invariant in this setting. This talk is based on the content of the articles 10.1112/tlm3.70003 (with E. Jacquard, V. Nanda and U. Tillmann) and arXiv:2406.05069.</p>
 </details>
 
 <nobr><b>Apr. 9</b>  &nbsp; <a href="https://www.iolojones.co.uk">Iolo Jones (Durham University)</a></nobr>
