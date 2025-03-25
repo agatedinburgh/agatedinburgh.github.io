@@ -34,7 +34,6 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi</a> (University of Queensland, online)</nobr> 
-<br>
 <span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - 2.04 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) )</b></span>
 <details style="margin-bottom:10px">
 <summary><b>Topologically steered simulations and the role of geometric constraints in protein knotting</b></summary>
