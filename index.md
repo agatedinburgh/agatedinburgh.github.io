@@ -34,7 +34,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi</a> (University of Queensland, online)</nobr> 
-<nobr><span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - 2.04 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) )</b></span></nobr>
+<nobr><span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - <a href="https://maps.app.goo.gl/zvDpZfULBhZHFmYbA">2.04 Appleton Tower</a>)</b></span></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Topologically steered simulations and the role of geometric constraints in protein knotting</b></summary>
 <p style="margin-left:30px;">  We introduce a method to determine the optimal pathway by which a polymer may knot or unknot, while subject to a given set of physics, and we investigate the effect of imposing geometric constraints. We show that with protein-like geometric constraints, the frequency of twist knots increases, similar to the observed abundance of twist knots in protein structures. This is joint work with A.Klotz and D.Goundaroulis.</p>
