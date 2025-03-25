@@ -34,7 +34,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Feb. 26</b>  &nbsp; <a href="https://sites.google.com/view/agnesebarbensi/home">Agnese Barbensi</a> (University of Queensland, online)</nobr> 
-<span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - 2.04 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) )</b></span>
+<nobr><span style="color: red;"><b>(Different Time: 10:05 - 11:00, Location - 2.04 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) )</b></span></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Topologically steered simulations and the role of geometric constraints in protein knotting</b></summary>
 <p style="margin-left:30px;">  We introduce a method to determine the optimal pathway by which a polymer may knot or unknot, while subject to a given set of physics, and we investigate the effect of imposing geometric constraints. We show that with protein-like geometric constraints, the frequency of twist knots increases, similar to the observed abundance of twist knots in protein structures. This is joint work with A.Klotz and D.Goundaroulis.</p>
@@ -59,8 +59,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Mar. 26</b>  &nbsp; <a href="https://irisyoon.com/">Iris Yoon</a> (Wesleyan University, online)</nobr>
-<br>
-<span style="color: red;"><b>(Cancelled)</b></span> 
+<nobr><span style="color: red;"><b>(Cancelled)</b></span></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Topological tracing of encoded circular coordinates between neural populations</b></summary>
 <p style="margin-left:30px;"> Recent developments in in vivo neuroimaging in animal models have made possible the study of information coding in large populations of neurons and even how that coding evolves in different neural systems. Topological methods, in particular, are effective at detecting periodic, quasi-periodic, or circular features in neural systems. Once we detect the presence of circular structures, we face the problem of assigning semantics: what do the circular structures in a neural population encode? Are they reflections of an underlying physiological activity, or are they driven by an external stimulus? If so, which specific features of the stimulus are encoded by the neurons? To address this problem, we introduced the method of analogous bars (Yoon, Ghrist, Giusti 2023). Given two related systems, say a stimulus system and a neural population, or two related neural populations, we utilize the dissimilarity between the two systems and Dowker complexes to find shared features between the two systems. We then leverage this information to identify related features between the two systems. In this talk, I will briefly explain the mathematics underlying the analogous bars method. I will then present applications of the method in studying neural population coding and propagation on simulated and experimental datasets. This work is joint work with Gregory Henselman-Petrusek, Robert Ghrist, Spencer Smith, Yiyi Yu, and Chad Giusti.</p>
