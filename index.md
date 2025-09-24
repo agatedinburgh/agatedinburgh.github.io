@@ -17,6 +17,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 >SUBSCRIBE agate-seminar [your name]\
 >QUIT
+
+
 ## Fall 2025 Talks
 ### Applications to Causal Inference and Networks
 
