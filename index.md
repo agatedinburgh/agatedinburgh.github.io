@@ -7,9 +7,9 @@ layout: default
 AGATE is an informal, hybrid seminar hosted at the University of Edinburgh, with Heriot-Watt and University of Glasgow as participating institutions, open to anyone who is interested in applied aspects of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. Each semester has a thematic focus on applications to a particular domain. 
 
 **When:** Wednesdays 15:05 to 16:00  
-**Spring 2025 Location:** 2.11 [Appleton Tower](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) and on Zoom. 
+**Fall 2025 Location:** [TBD (near the Bayes Center)](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) and on Zoom. 
 
-**Organizers:** [Djordje Mihajlovic](https://djpm.xyz/), [Siddharth Setlur](https://siddharthsetlur.github.io/), [Sjoerd Beentjes](https://sjoerdvbeentjes.github.io/), [Darrick Lee](https://darricklee.com/), and [Emily Roff](https://www.maths.ed.ac.uk/~emilyroff/)  
+**Organizers:** [Djordje Mihajlovic](https://djpm.xyz/), [Siddharth Setlur](https://siddharthsetlur.github.io/), and [Darrick Lee](https://darricklee.com/).
 
 <!-- For the first semester, all talks will be by internal speakers. We welcome research talks and expository talks, by faculty, postdocs and students. You could tell us about your own latest paper, or something you've just read and found exciting. You could tell us the story of an interdisciplinary collaboration (what worked? what didn't?). Or you might like to give a "What is...?"-style introduction to your broad area of research. To propose a talk, email Sjoerd, Darrick or Emily. -->
 
@@ -17,6 +17,32 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 >SUBSCRIBE agate-seminar [your name]\
 >QUIT
+## Fall 2025 Talks
+### Applications to Causal Inference and Networks
+
+<nobr><b>October 8</b>  &nbsp; <a href="https://sites.google.com/view/kasturibarkataki/bio">Kasturi Barkataki</a> (University of Edinburgh)</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+</details> 
+
+<nobr><b>October 15</b>  &nbsp; <a href="https://sites.google.com/view/josephcummingsmath/home">Joseph Cummings</a> (University of Edinburgh)</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+</details>
+
+<nobr><b>October 22</b>  &nbsp; <a href="https://math.ucr.edu/home/baez/">John Baez</a> (University of Edinburgh and U.C. Riverside)</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+</details>
+<nobr><b>October 29</b>  &nbsp; <a href="https://scholar.google.com/citations?user=EpfaDj0AAAAJ&hl=en">Amirhossein Farzam</a> (Duke University, online)</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+</details>
+
 
 ## Spring 2025 Talks
 ### Applications to Biology and Medicine
