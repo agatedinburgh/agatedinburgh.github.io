@@ -24,8 +24,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>October 8</b>  &nbsp; <a href="https://sites.google.com/view/kasturibarkataki/bio">Kasturi Barkataki</a> (University of Edinburgh)</nobr> 
 <details style="margin-bottom:10px">
-<summary><b>TBD</b></summary>
-<p style="margin-left:30px;">TBD</p>
+<summary><b>New invariants of Linkoids and Measures of Entanglement of Open Curves in 3-space</b></summary>
+<p style="margin-left:30px;">Measuring the entanglement complexity of collections of open curves in 3-space has been an intractable, yet pressing mathematical problem, relevant to a plethora of physical systems. In this talk, we describe a novel definition of the Jones polynomial that generalises the classic Jones polynomial to collections of open curves in 3-space. More precisely, first we provide a novel definition of the Jones polynomial of linkoids (open link diagrams) and show that this is a well-defined single variable polynomial that is a topological invariant, which, for link-type linkoids, it coincides with that of the corresponding link. We will also talk about new invariants of linkoids which are introduced via a surjective map between linkoids and virtual knots. This leads to a new collection of strong invariants of linkoids that are independent of any given virtual closure.  We will show that invariants of linkoids give rise to a collection of novel measures of entanglement of open curves in 3-space, which are continuous functions of the curve coordinates and tend to their corresponding classical invariants when the endpoints of the curves tend to coincide.</p>
 </details> 
 
 <nobr><b>October 15</b>  &nbsp; <a href="https://sites.google.com/view/josephcummingsmath/home">Joseph Cummings</a> (University of Edinburgh)</nobr> 
