@@ -7,7 +7,7 @@ layout: default
 AGATE is an informal, hybrid seminar hosted at the University of Edinburgh, with Heriot-Watt and University of Glasgow as participating institutions, open to anyone who is interested in applied aspects of geometry, algebra and topology. AGATE's remit spans topics including algebraic statistics, geometric deep learning, and topological data analysis. Each semester has a thematic focus on applications to a particular domain. 
 
 **When:** Wednesdays 15:05 to 16:00  
-**Fall 2025 Location:** [TBD (near the Bayes Center)](https://maps.app.goo.gl/zvDpZfULBhZHFmYbA) and on Zoom. 
+**Fall 2025 Location:** [3.01, 40 George Square (near the Bayes Center)](https://maps.app.goo.gl/uX44YgBUTBNniktF8) and on Zoom (links sent via the mailing list). 
 
 **Organizers:** [Djordje Mihajlovic](https://djpm.xyz/), [Siddharth Setlur](https://siddharthsetlur.github.io/), and [Darrick Lee](https://darricklee.com/).
 
