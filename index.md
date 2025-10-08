@@ -43,6 +43,45 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <details style="margin-bottom:10px">
 <summary><b>TBD</b></summary>
 <p style="margin-left:30px;">TBD</p>
+
+<nobr><b>Nov 5</b>  &nbsp; TBD</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+
+<nobr><b>Nov 12</b>  &nbsp;<a href="https://personal.math.ubc.ca/~erobeva/"> Elina Robeva</a> (University of British Columbia, online)</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+
+<nobr><b>Nov 19</b>  &nbsp; TBD</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+</details>
+
+<nobr><b>Nov 26</b>  &nbsp; TBD</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+</details>
+
+<nobr><b>Dec 3</b>  &nbsp; TBD</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
+</details>
+
+<nobr><b>Dec 10</b>  &nbsp; &nbsp; <a href="https://irisyoon.com/">Iris Yoon</a> (Wesleyan University, online)</nobr>
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;"> TBD.</p>
+</details>
+
+<nobr><b>Dec 17</b>  &nbsp; TBD</nobr> 
+<details style="margin-bottom:10px">
+<summary><b>TBD</b></summary>
+<p style="margin-left:30px;">TBD</p>
 </details>
 
 
