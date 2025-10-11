@@ -30,8 +30,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>October 15</b>  &nbsp; <a href="https://sites.google.com/view/josephcummingsmath/home">Joseph Cummings</a> (University of Edinburgh)</nobr> 
 <details style="margin-bottom:10px">
-<summary><b>TBD</b></summary>
-<p style="margin-left:30px;">TBD</p>
+<summary><b>CFN Phylogenetic Networks</b></summary>
+<p style="margin-left:30px;"> In this talk, we study the ideal of phylogenetic invariants of the Cavender-Farris-Neyman (CFN) model on a phylogenetic network with the goal of providing a description of the invariants which is useful for network inference. Our two main results are as follows: 1) the model is completely determined by its covariance matrix, and 2) the model is cut out by rank constraints on submatrices of the covariance matrix determined by the combinatorics of the underlying network.  These results hold in the level-1 case; however, we will provide several examples and some intuition for why these results may hold for more complicated networks as well. Time permitting, we will explore how this description of the model could lead to a full-fledged network reconstruction algorithm for level-1 networks. This is joint work with Elizabeth Gross, Ben Hollering, Sam Martin, and Ikenna Nometa.</p>
 </details>
 
 <nobr><b>October 22</b>  &nbsp; <a href="https://math.ucr.edu/home/baez/">John Baez</a> (University of Edinburgh and U.C. Riverside)</nobr> 
