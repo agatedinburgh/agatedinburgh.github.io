@@ -83,7 +83,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;"> TBD</p>
 </details>
 
-<nobr><b>Dec 17</b>  &nbsp; TBD</nobr> 
+<nobr><b>Dec 17</b>  &nbsp; <a href= "https://www.ninaotter.com"> Nina Otter </a> (Inria-Saclay, online)</nobr> 
 <details style="margin-bottom:10px">
 <summary><b>TBD</b></summary>
 <p style="margin-left:30px;">TBD</p>
