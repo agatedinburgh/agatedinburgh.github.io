@@ -36,8 +36,9 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 <nobr><b>October 22</b>  &nbsp; <a href="https://math.ucr.edu/home/baez/">John Baez</a> (University of Edinburgh and U.C. Riverside)</nobr> 
 <details style="margin-bottom:10px">
-<summary><b>TBD</b></summary>
-<p style="margin-left:30px;">TBD</p>
+<summary><b>Software for Compositional Modeling</b></summary>
+<p style="margin-left:30px;">Many epidemiologists use “stock and flow diagrams” to describe ordinary differential equation (ODE) models of disease dynamics. This talk introduces the mathematics of stock and flow diagrams and two software tools for working with them. The first, called StockFlow.jl, is based on category theory and written in AlgebraicJulia. The second, called ModelCollab, runs on a web browser and serves as a graphical user interface for StockFlow.jl. Modelers often regard diagrams as an informal step toward a mathematically rigorous formulation of a model in terms of ODEs. However, stock and flow diagrams have a precise mathematical syntax. Formulating this syntax using category theory has many advantages, but I will focus on three: functorial semantics, model composition, and model stratification. This is joint work with Xiaoyan Li, Sophie Libkind, Nathaniel Osgood, Evan Patterson and Eric Redekopp.
+</p>
 </details>
 
 <nobr><b>October 29</b>  &nbsp; <a href="https://scholar.google.com/citations?user=EpfaDj0AAAAJ&hl=en">Amirhossein Farzam</a> (Duke University, online)</nobr> 
