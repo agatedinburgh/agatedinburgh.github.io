@@ -47,7 +47,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;">Modern machine learning models demonstrate remarkable capabilities, yet understanding and improving their robustness remains an open challenge, particularly for estimating causal effects from observational data. In this talk, we explore how geometric and topological tools can elucidate and enhance robustness in deep learning methods for causal inference without requiring ground-truth. We begin by establishing a theoretical connection between network geometry and causal inference reliability. By linking distributional and perturbation robustness, we show that the Ricci curvature of networked treatment units predicts the stability of causal estimates. This insight not only reveals why certain network neighborhoods yield unreliable estimates but also informs practical techniques for obtaining more accurate estimates. Building on this theme, we also explore how topological summaries enhance treatment effect estimation under noisy observations. By incorporating persistence diagrams into representation balancing, we achieve improved robustness to both Gaussian and heavy-tailed noise. Our analysis identifies conditions under which topological features provide superior metric stability, leading to a topology-aware treatment effect estimation framework that improves robustness while maintaining performance. Together, these works demonstrate how geometric and topological perspectives provide both theoretical understanding and practical tools for achieving robust causal inference in challenging real-world settings.</p>
 </details>
 
-<nobr><b>Nov 5</b>  &nbsp; TBD</nobr> 
+<nobr><b>Nov 5</b>  &nbsp;<span style="color: red;"><b>No Talk (AGQ COnference)</b></span></nobr> 
 <details style="margin-bottom:10px">
 <summary><b>TBD</b></summary>
 <p style="margin-left:30px;">TBD</p>
@@ -59,7 +59,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;">TBD</p>
 </details>
 
-<nobr><b>Nov 19</b>  &nbsp; TBD</nobr> 
+<nobr><b>Nov 19</b>  &nbsp; <a href="https://ericjmichaud.com/"> Eric Michaud (MIT)</a></nobr> 
 <details style="margin-bottom:10px">
 <summary><b>TBD</b></summary>
 <p style="margin-left:30px;">TBD</p>
