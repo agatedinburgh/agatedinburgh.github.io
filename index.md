@@ -56,8 +56,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <nobr><b>Nov 12</b>  &nbsp;<a href="https://personal.math.ubc.ca/~erobeva/"> Elina Robeva</a> (University of British Columbia, online)</nobr>
 <nobr><span style="color: red;"><b>(Different Time: 16:05 - 17:00)</b></span></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBD</b></summary>
-<p style="margin-left:30px;">TBD</p>
+<summary><b>Learning linear causal models via algebraic constraints</b></summary>
+<p style="margin-left:30px;">The main task of causal discovery is to learn direct causal relationships among observed random variables. These relationships are usually depicted via a directed graph whose vertices are the variables of interest and whose edges represent direct causal effects. In this talk we will discuss the problem of learning such a directed graph for a linear causal model. I will specifically address the case where the graph may have hidden variables or directed cycles. In general, the causal graph cannot be learned uniquely from observational data. However, in the special case of linear non-Gaussian acyclic causal models, the directed graph can be found uniquely. When cycles are allowed the graph can be learned up to an equivalence class. We characterize the equivalence classes of such cyclic graphs and we propose algorithms for causal discovery. Our methods are based on using algebraic relationships among the second and higher order moments of the random vector. We show that such algebraic relationships are enough to identify the graph.</p>
 </details>
 
 <nobr><b>Nov 19</b>  &nbsp; <a href="https://ericjmichaud.com/"> Eric Michaud (MIT)</a></nobr> 
