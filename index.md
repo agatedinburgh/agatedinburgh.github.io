@@ -61,15 +61,12 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Nov 19</b> &nbsp;<span style="color: red;"><b>No Talk (Strike)</b></span></nobr> 
-<details style="margin-bottom:10px">
-<summary><b>TBD</b></summary>
-<p style="margin-left:30px;">TBD</p>
-</details>
+
 
 <nobr><b>Nov 26</b>  &nbsp; <a href="https://ericjmichaud.com/"> Eric Michaud (MIT)</a></nobr> 
 <details style="margin-bottom:10px">
-<summary><b>TBD</b></summary>
-<p style="margin-left:30px;">TBD</p>
+<summary><b>On feature manifolds, and decomposing neural network representations into parts</b></summary>
+<p style="margin-left:30px;">How do large language models represent the world? A large amount of work in "mechanistic interpretability," the study of the internal mechanisms learned by neural networks, has lately focused on understanding the structure of neural network representations. In this talk, I'll discuss some recent work on the structure of "feature manifolds" in neural networks. I'll give an overview of some recent dialogue in the mechanistic interpretability literature on what feature manifolds are, and where their structure comes from, that may appeal to a mathematically-inclined audience.</p>
 </details>
 
 
