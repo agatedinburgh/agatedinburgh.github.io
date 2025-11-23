@@ -61,6 +61,8 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Nov 19</b> &nbsp;<span style="color: red;"><b>No Talk (Strike)</b></span></nobr> 
+<br>
+<br>
 
 
 <nobr><b>Nov 26</b>  &nbsp; <a href="https://ericjmichaud.com/"> Eric Michaud (MIT)</a></nobr> 
