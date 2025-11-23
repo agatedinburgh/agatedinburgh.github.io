@@ -60,11 +60,11 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;">The main task of causal discovery is to learn direct causal relationships among observed random variables. These relationships are usually depicted via a directed graph whose vertices are the variables of interest and whose edges represent direct causal effects. In this talk we will discuss the problem of learning such a directed graph for a linear causal model. I will specifically address the case where the graph may have hidden variables or directed cycles. In general, the causal graph cannot be learned uniquely from observational data. However, in the special case of linear non-Gaussian acyclic causal models, the directed graph can be found uniquely. When cycles are allowed the graph can be learned up to an equivalence class. We characterize the equivalence classes of such cyclic graphs and we propose algorithms for causal discovery. Our methods are based on using algebraic relationships among the second and higher order moments of the random vector. We show that such algebraic relationships are enough to identify the graph.</p>
 </details>
 
-<nobr><b>Nov 19</b> &nbsp;<span style="color: red;"><b>No Talk (Strike)</b></span></nobr> 
+<nobr><b>Nov 19</b> &nbsp;<span style="color: red;"><b>No Talk (Strike)</b></span>
 <br>
 
 
-<nobr><b>Nov 26</b>  &nbsp; <a href="https://ericjmichaud.com/"> Eric Michaud (MIT)</a></nobr> 
+<nobr><b>Nov 26</b>  &nbsp; <a href="https://ericjmichaud.com/"> Eric Michaud (MIT, online)</a></nobr> 
 <details style="margin-bottom:10px">
 <summary><b>On feature manifolds, and decomposing neural network representations into parts</b></summary>
 <p style="margin-left:30px;">How do large language models represent the world? A large amount of work in "mechanistic interpretability," the study of the internal mechanisms learned by neural networks, has lately focused on understanding the structure of neural network representations. In this talk, I'll discuss some recent work on the structure of "feature manifolds" in neural networks. I'll give an overview of some recent dialogue in the mechanistic interpretability literature on what feature manifolds are, and where their structure comes from, that may appeal to a mathematically-inclined audience.</p>
