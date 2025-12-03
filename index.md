@@ -60,7 +60,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <p style="margin-left:30px;">The main task of causal discovery is to learn direct causal relationships among observed random variables. These relationships are usually depicted via a directed graph whose vertices are the variables of interest and whose edges represent direct causal effects. In this talk we will discuss the problem of learning such a directed graph for a linear causal model. I will specifically address the case where the graph may have hidden variables or directed cycles. In general, the causal graph cannot be learned uniquely from observational data. However, in the special case of linear non-Gaussian acyclic causal models, the directed graph can be found uniquely. When cycles are allowed the graph can be learned up to an equivalence class. We characterize the equivalence classes of such cyclic graphs and we propose algorithms for causal discovery. Our methods are based on using algebraic relationships among the second and higher order moments of the random vector. We show that such algebraic relationships are enough to identify the graph.</p>
 </details>
 
-<nobr><b>Nov 19</b> &nbsp;<span style="color: red;"><b>No Talk (Strike)</b></span>
+<nobr><b>Nov 19</b> &nbsp;<span style="color: red;"><b>No Talk (Strike)</b></span></nobr>
 <br>
 
 
@@ -79,6 +79,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Dec 10</b>  &nbsp; <a href="https://irisyoon.com/">Iris Yoon</a> (Wesleyan University, online)</nobr>
+<nobr><span style="color: red;"><b>(Different Location:  <a href="https://maps.app.goo.gl/uX44YgBUTBNniktF8">Room 6.11, 40 George Square</a>)</b></span></nobr>
 <details style="margin-bottom:10px">
 <summary><b>Topological tracing of encoded circular coordinates between neural populations</b></summary>
 <p style="margin-left:30px;"> Recent developments in in vivo neuroimaging in animal models have made possible the study of information coding in large populations of neurons and even how that coding evolves in different neural systems. Topological methods, in particular, are effective at detecting periodic, quasi-periodic, or circular features in neural systems. Once we detect the presence of circular structures, we face the problem of assigning semantics: what do the circular structures in a neural population encode? Are they reflections of an underlying physiological activity, or are they driven by an external stimulus? If so, which specific features of the stimulus are encoded by the neurons? To address this problem, we introduced the method of analogous bars (Yoon, Ghrist, Giusti 2023). Given two related systems, say a stimulus system and a neural population, or two related neural populations, we utilize the dissimilarity between the two systems and Dowker complexes to find shared features between the two systems. We then leverage this information to identify related features between the two systems. In this talk, I will briefly explain the mathematics underlying the analogous bars method. I will then present applications of the method in studying neural population coding and propagation on simulated and experimental datasets. This work is joint work with Gregory Henselman-Petrusek, Robert Ghrist, Spencer Smith, Yiyi Yu, and Chad Giusti.</p>
