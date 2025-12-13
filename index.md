@@ -86,6 +86,7 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 </details>
 
 <nobr><b>Dec 17</b>  &nbsp; <a href= "https://www.ninaotter.com"> Nina Otter </a> (Inria-Saclay, online)</nobr> 
+<nobr><span style="color: red;"><b>(Cancelled)</b></span></nobr>
 <details style="margin-bottom:10px">
 <summary><b>TBD</b></summary>
 <p style="margin-left:30px;">TBD</p>
