@@ -21,7 +21,12 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 
 ## Spring 2026 Talks
 
-
+<nobr><b>March 11</b>  &nbsp; <a href="https://sites.google.com/view/dkosta">Dimitra Kosta</a> (University of Edinburgh)</nobr> 
+<nobr><span style="color: red;"><b>(Different Time - 13:00-14:00 ; Different Location:  <a href="https://maps.app.goo.gl/rVKpBVaVMh48k2bc8">Room 1.40, Edinburgh Futures Institute</a>)</b></span></nobr>
+<details style="margin-bottom:10px">
+<summary><b>TBA</b></summary>
+<p style="margin-left:30px;">TBA</p>
+</details> 
 <nobr><b>March 25</b>  &nbsp; <a href="https://www.ebi.ac.uk/people/person/samuel-martin/">Samuel Martin</a> (EMBL's European Bioinformatics Institute)</nobr> 
 <details style="margin-bottom:10px">
 <summary><b>TBA</b></summary>
