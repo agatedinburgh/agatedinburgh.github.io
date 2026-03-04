@@ -28,13 +28,15 @@ To join the mailing list, send an email to sympa at mlist.is.ed.ac.uk with nothi
 <nobr><b>March 11</b>  &nbsp; <a href="https://sites.google.com/view/dkosta">Dimitra Kosta</a> (University of Edinburgh)</nobr> 
 <nobr><span style="color: red;"><b>(Different Time - 13:00-14:00 ; Different Location:  <a href="https://maps.app.goo.gl/rVKpBVaVMh48k2bc8">Room 1.40, Edinburgh Futures Institute</a>)</b></span></nobr>
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
-<p style="margin-left:30px;">TBA</p>
+<summary><b>On strongly robust toric ideals: when Markov and Graver bases coincide</b></summary>
+<p style="margin-left:30px;">In the first part of the talk, I will give an introduction to Markov bases of toric ideals, which are one of the first connections between statistics and commutative algebra.  In the second part of the talk, I will discuss recent work on strongly robust toric ideals. A toric ideal is called strongly robust when the Graver basis is a minimal system of generators. In the talk, I will explain how to build a strongly robust simplicial complex which determines the strongly robust property of toric ideals. I will then discuss our results on the strongly robust property in the case of monomial curves, as well as codimension 2 toric ideals and configurations in general position. This is joint work with A. Thoma and M. Vladoiu.</p>
 </details> 
 <nobr><b>March 25</b>  &nbsp; <a href="https://www.ebi.ac.uk/people/person/samuel-martin/">Samuel Martin</a> (EMBL's European Bioinformatics Institute)</nobr> 
 <details style="margin-bottom:10px">
-<summary><b>TBA</b></summary>
-<p style="margin-left:30px;">TBA</p>
+<summary><b>Algebraic Invariants for Inferring 4-leaf Semi-directed Phylogenetic Networks</b></summary>
+<p style="margin-left:30px;">Phylogenetic trees are graphs that describe the evolutionary history between a group of species. With the growing awareness of biological phenomena such as gene transfer and introgression, in many cases a tree structure does not describe evolutionary accurately, and a network is used instead. We can study evolution at the molecular level (e.g. DNA) by placing a Markov model on a phylogenetic tree or network. By viewing the observable part of the model as an algebraic variety, we can use computational algebraic geometry to better understand these models.
+
+In this talk I will introduce phylogenetic network models and give recent identifiability results on a class of phylogenetic networks called level-1. I will describe a novel method of inferring phylogenetic network topologies from DNA sequence data using functions call algebraic invariants (elements of the ideal corresponding to the model) and present results of this method on simulated data and real data.</p>
 </details> 
 
 
